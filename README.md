@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ligoc
+- 👋 Hi, I’m Grzegorz
 - 👀 I’m interested to lern Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
