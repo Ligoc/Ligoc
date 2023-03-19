@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Grzegorz
-- 👀 I’m interested to lern Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Ligoc/Ligoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
